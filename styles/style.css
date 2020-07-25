@@ -191,20 +191,30 @@ nav .contact {
 }
 
 .money {
-  width: 545px;
+  width: 397px;
+  position: absolute;
+  left: 462px;
+  bottom: 30px;
+}
+
+.laptop {
+  width: 907px;
+  position: absolute;
+  left: -116px;
+  bottom: 76px;
 }
 
 .login-box {
-  width: 370px;
+  width: 443px;
   height: auto;
   padding: 20px 30px;
-  background-color: grey;
+  background-color: #a0d0d6;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   padding: 70px 30px;
   opacity: 0.6;
   position: absolute;
-  top: 129px;
+  top: 175px;
   right: 160px;
 }
 
@@ -233,8 +243,8 @@ nav .contact {
   height: 110px;
   border-radius: 50%;
   position: absolute;
-  top: -50px;
-  left: 130px;
+  top: -55px;
+  left: 159px;
 }
 
 h1 {
@@ -286,9 +296,9 @@ h1 {
 
 .medium-circle {
   position: absolute;
-  top: 30%;
+  top: -13%;
   right: 30%;
-  height: 70%;
+  height: 68%;
   opacity: 0.5;
 }
 
